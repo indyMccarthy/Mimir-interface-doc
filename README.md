@@ -3,6 +3,8 @@
 ## Available stream data
 
 - [KafkaMessageJson](KafkaMessageJson.html)
+- [KafkaMessageJsonLessFields](KafkaMessageJsonLessFields.html)
+- [KafkaMessageJsonMoreFields](KafkaMessageJsonMoreFields.html)
 
 ### Support or Contact
 
