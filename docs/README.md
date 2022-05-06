@@ -14,9 +14,9 @@
 
 
 ## Available data not registered
-(Existing topics that does not match any schema name)
+(Existing topic that does not match any schema name)
 
-- mimirmessagetest
+- mimir-message-test
 
 
 ### Support or Contact
